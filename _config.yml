@@ -8,7 +8,7 @@ description: Kelsey is testing the rapid response prototype
 
 # Enable for live hosting on GitHub Pages.
 # It should start with a slash (/) and then match the name of your repository exactly.
-baseurl: /kwilbon.github.io/my-screener/
+baseurl: /my-screener
 # =============================================================================
 
 ### CONTENT SETTINGS ###
