@@ -7,9 +7,9 @@ text: Is your complaint about a healthcare provider, insurance provider, or data
 # The answer options and page name of destination associated with each answer
 # Add as many as you need.
 answers:
-  - text: "Yes, it is"
+  - text: "this is the answer
     path: question-2
-  - text: "No, none of these apply"
+  - text: "this is the answer"
     path: q1-exit
 
 # Whether this question includes related resources (yes or no)
