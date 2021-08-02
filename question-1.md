@@ -7,7 +7,7 @@ text: This is a test question
 # The answer options and page name of destination associated with each answer
 # Add as many as you need.
 answers:
-  - text: "this is the answer
+  - text: "this is the answer"
     path: question-2
   - text: "this is the answer"
     path: q1-exit
